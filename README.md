@@ -61,7 +61,7 @@ O objetivo foi construir um painel operacional que permitisse acompanhar os prin
 
 ## 🖥️ Visualização do Dashboard
 
-![Dashboard de Produção](https://raw.githubusercontent.com/MateusSjunior/dashboard-producao/main/prints/dashboard_producao.png)
+![Dashboard de Produção](https://github.com/MateusSjunior/dashboard-producao/blob/main/Prints%20e%20Fundos/Dashboard%20de%20Produ%C3%A7%C3%A3o.png)
 
 ---
 
